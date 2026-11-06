@@ -18,20 +18,9 @@
 
 ###  About
 
-Software Engineer & UI/UX Designer driven by the uncompromising pursuit of simplicity, architectural rigor, and fluid interaction. 
+Software Engineer and UI/UX Designer dedicated to the intersection of aesthetic precision, robust engineering, and fluid interaction.
 
-Bridging native mobile performance (**iOS / Flutter**) with scalable fullstack backends and modern **AI-augmented agentic workflows**.
-
-```swift
-// MARK: - Executive Summary
-struct Profile {
-    let engineer      = "Eldar Bolatbekuly"
-    let corePlatforms = ["iOS", "Flutter", "Fullstack Web"]
-    let methodologies = ["AI-Augmented Engineering", "Agentic Pipelines", "Apple HIG"]
-    let philosophy    = "Simplicity is the ultimate sophistication."
-    let origin        = "Astana, Kazakhstan"
-}
-```
+I specialize in building responsive mobile applications (**iOS / Swift / Flutter**), scalable distributed backends, and integrating **autonomous AI-agentic workflows** into modern software development. Every digital experience is crafted with strict adherence to Human Interface Guidelines: purposeful, clear, and uncompromisingly fluid.
 
 ---
 
